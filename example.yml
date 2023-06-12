@@ -13,7 +13,7 @@ nodes:
         source_ref: UO
         source_url: http://purl.obolibrary.org/obo/UO_0000142
       - name: watt per square meter
-        description: W/m2
+        description: Wm2
         term_source: EXTERNAL
         source_ref: UO
         source_url: http://purl.obolibrary.org/obo/UO_0000155
