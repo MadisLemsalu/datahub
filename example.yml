@@ -22,3 +22,14 @@ nodes:
         term_source: EXTERNAL
         source_ref: UO
         source_url: http://purl.obolibrary.org/obo/UO_0000168
+  - name: PersonalInformation
+    description: All terms related to personal information
+    owners:
+      users:
+        - mjames
+    terms:
+      - name: Email
+        ## An example of using an id to pin a term to a specific guid
+        # id: "urn:li:glossaryTerm:41516e310acbfd9076fffc2c98d2d1a3"
+        description: An individual's email address
+        
