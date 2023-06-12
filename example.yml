@@ -2,8 +2,7 @@ version: 1
 source: DataHub
 owners:
   users:
-    - madis lemsalu
-url: "https://github.com/datahub-project/datahub/"
+    - Madis
 nodes:
   - name: Unit
     description: terms  
