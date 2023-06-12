@@ -2,24 +2,30 @@ version: 1
 source: DataHub
 owners:
   users:
-    - mjames
+    - madis lemsalu
 url: "https://github.com/datahub-project/datahub/"
 nodes:
-  - name: Classification
-    description: A set of terms related to Data Classification
-    knowledge_links:
-      - label: Wiki link for classification
-        url: "https://en.wikipedia.org/wiki/Classification"
+  - name: Unit
+    description: terms  
     terms:
-      - name: Sensitive
-        description: Sensitive Data
+        - name: milligray
+        description: mGy
+        term_source: EXTERNAL
+        source_ref: UO
+        source_url: http://purl.obolibrary.org/obo/UO_0000142	
         custom_properties:
           is_confidential: false
-      - name: Confidential
-        description: Confidential Data
+      - name: watt per square meter
+        description: W/m2
+        term_source: EXTERNAL
+        source_ref: UO
+        source_url: http://purl.obolibrary.org/obo/UO_0000155	
         custom_properties:
-          is_confidential: true
-      - name: HighlyConfidential
-        description: Highly Confidential Data
+          is_confidential: false
+      - name: parts per thousand
+        description: ppth
+        term_source: EXTERNAL
+        source_ref: UO
+        source_url: http://purl.obolibrary.org/obo/UO_0000168	
         custom_properties:
-          is_confidential: true
+          is_confidential: false
