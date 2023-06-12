@@ -7,10 +7,8 @@ nodes:
   - name: Unit
     description: terms  
     terms:
-    
-    
       - name: milligray
-        description: mGy
+        description: test
         term_source: EXTERNAL
         source_ref: UO
         source_url: http://purl.obolibrary.org/obo/UO_0000142	
