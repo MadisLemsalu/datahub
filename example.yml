@@ -11,20 +11,14 @@ nodes:
         description: test
         term_source: EXTERNAL
         source_ref: UO
-        source_url: http://purl.obolibrary.org/obo/UO_0000142	
-        custom_properties:
-          is_confidential: false
+        source_url: http://purl.obolibrary.org/obo/UO_0000142
       - name: watt per square meter
         description: W/m2
         term_source: EXTERNAL
         source_ref: UO
-        source_url: http://purl.obolibrary.org/obo/UO_0000155	
-        custom_properties:
-          is_confidential: false
+        source_url: http://purl.obolibrary.org/obo/UO_0000155
     - name: parts per thousand
         description: ppth
         term_source: EXTERNAL
         source_ref: UO
-        source_url: http://purl.obolibrary.org/obo/UO_0000168	
-        custom_properties:
-          is_confidential: false
+        source_url: http://purl.obolibrary.org/obo/UO_0000168
