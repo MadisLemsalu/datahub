@@ -12,6 +12,9 @@ nodes:
         term_source: EXTERNAL
         source_ref: UO
         source_url: http://purl.obolibrary.org/obo/UO_0000142
+        knowledge_links:
+          - label: Wiki link for classification
+            url: "https://en.wikipedia.org/wiki/Classification"
       - name: watt per square meter
         description: Wm2
         term_source: EXTERNAL
