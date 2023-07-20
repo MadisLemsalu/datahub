@@ -22,6 +22,14 @@ nodes:
         term_source: EXTERNAL
         source_ref: UO
         source_url: http://purl.obolibrary.org/obo/UO_0000168
+      - description: kV
+        name: kilovolt
+        source_ref: UO
+        term_source: EXTERNAL
+      - description: kg/m3
+        name: kilogram per cubic meter
+        source_ref: UO
+        term_source: EXTERNAL
   - name: PersonalInformation
     description: All terms related to personal information
     owners:
