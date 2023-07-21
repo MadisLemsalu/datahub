@@ -8,45 +8,45 @@ nodes:
     description: terms  
     terms:
       - description: mGy
-      knowledge_links:
-        - label: Wikipedia
-        url: https://en.wikipedia.org/wiki/Gray_(unit)
-      name: milligray
-      source_ref: UO
-      source_url: http://purl.obolibrary.org/obo/UO_0000142
-      term_source: EXTERNAL
+        knowledge_links:
+          - label: Wikipedia
+            url: https://en.wikipedia.org/wiki/Gray_(unit)
+        name: milligray
+        source_ref: UO
+          source_url: http://purl.obolibrary.org/obo/UO_0000142
+        term_source: EXTERNAL
       - description: W/m2
-      knowledge_links:
-        - label: .nan
-        url: .nan
-      name: watt per square meter
-      source_ref: UO
-      source_url: http://purl.obolibrary.org/obo/UO_0000155
-      term_source: EXTERNAL
+        knowledge_links:
+          - label: .nan
+            url: .nan
+        name: watt per square meter
+        source_ref: UO
+          source_url: http://purl.obolibrary.org/obo/UO_0000155
+        term_source: EXTERNAL
       - description: ppth
-      knowledge_links:
-        - label: Wikipedia
-        url: https://en.wikipedia.org/wiki/Parts-per_notation
-      name: parts per thousand
-      source_ref: UO
-      source_url: http://purl.obolibrary.org/obo/UO_0000168
-      term_source: EXTERNAL
+        knowledge_links:
+          - label: Wikipedia
+            url: https://en.wikipedia.org/wiki/Parts-per_notation
+        name: parts per thousand
+        source_ref: UO
+          source_url: http://purl.obolibrary.org/obo/UO_0000168
+        term_source: EXTERNAL
       - description: kDa
-      knowledge_links:
-        - label: Wikipedia
-        url: https://en.wikipedia.org/wiki/Dalton_(unit)
-      name: kilodalton
-      source_ref: UO
-      source_url: http://purl.obolibrary.org/obo/UO_0000222
-      term_source: EXTERNAL
+        knowledge_links:
+          - label: Wikipedia
+            url: https://en.wikipedia.org/wiki/Dalton_(unit)
+        name: kilodalton
+        source_ref: UO
+          source_url: http://purl.obolibrary.org/obo/UO_0000222
+        term_source: EXTERNAL
       - description: MB
-      knowledge_links:
-        - label: Wikipedia
-        url: https://en.wikipedia.org/wiki/Megabyte
-      name: megabyte
-      source_ref: UO
-      source_url: http://purl.obolibrary.org/obo/UO_0000235
-      term_source: EXTERNAL
+        knowledge_links:
+          - label: Wikipedia
+            url: https://en.wikipedia.org/wiki/Megabyte
+        name: megabyte
+        source_ref: UO
+          source_url: http://purl.obolibrary.org/obo/UO_0000235
+        term_source: EXTERNAL
 
   - name: PersonalInformation
     description: All terms related to personal information
