@@ -13,7 +13,7 @@ nodes:
             url: https://en.wikipedia.org/wiki/Gray_(unit)
         name: milligray
         source_ref: UO
-          source_url: http://purl.obolibrary.org/obo/UO_0000142
+          source_url: "http://purl.obolibrary.org/obo/UO_0000142"
         term_source: EXTERNAL
    
 
