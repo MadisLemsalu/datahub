@@ -10,7 +10,7 @@ nodes:
       - description: mGy
         knowledge_links:
           - label: Wikipedia
-            url: "https://en.wikipedia.org/wiki/Gray_(unit)"
+            url: https://en.wikipedia.org/wiki/Gray_(unit)
         name: milligray
         source_ref: UO
         term_source: EXTERNAL
